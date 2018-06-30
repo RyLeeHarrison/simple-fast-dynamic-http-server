@@ -1,0 +1,28 @@
+{
+  "name": "simple-fast-dynamic-http-server",
+  "version": "1.0.0",
+  "description": "Dynamic HTTP server that automatically handles URL to local resource path and content-type headers",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RyleeHarrison/simple-fast-dynamic-http-server.git"
+  },
+  "keywords": [
+    "dynamic",
+    "node-http-server",
+    "http",
+    "handler",
+    "dynamic",
+    "http",
+    "handler"
+  ],
+  "author": "RyLee Harrison",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RyleeHarrison/simple-fast-dynamic-http-server/issues"
+  },
+  "homepage": "https://github.com/RyleeHarrison/simple-fast-dynamic-http-server#readme"
+}
