@@ -11,13 +11,13 @@
     "url": "git+https://github.com/RyleeHarrison/simple-fast-dynamic-http-server.git"
   },
   "keywords": [
-    "dynamic",
+    "http",
+    "node-http",
     "node-http-server",
-    "http",
-    "handler",
     "dynamic",
-    "http",
-    "handler"
+    "dynamic-http",
+    "dynamic-http-server",
+    "dynamic-handler"
   ],
   "author": "RyLee Harrison",
   "license": "MIT",
