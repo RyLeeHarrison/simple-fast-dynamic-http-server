@@ -18,6 +18,6 @@ Clone and run
 
 ```sh
 git clone https://github.com/RyleeHarrison/simple-fast-dynamic-http-server
-cd simple-fast-dynamic-http-server.git
+cd simple-fast-dynamic-http-server
 yarn start # or npm run start
 ```
